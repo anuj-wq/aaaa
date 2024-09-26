@@ -4,23 +4,23 @@
 I'm Anuj Mishra, currently pursuing my studies at *Galgotias University. I'm passionate about technology and constantly strive to improve my skills in programming and software development. My primary expertise lies in **C++, **Data Structures and Algorithms (DSA), **Java, and **SQL*, along with a growing knowledge of many other technologies.
 
 ### 🛠 Technical Skills:
-- *Programming Languages:* C++, Java
+- *Programming Languages:* C/C++, Java , Pyhton
 - *Data Structures & Algorithms*
 - *Database Management:* SQL
 - *Version Control:* Git, GitHub
-- *Problem Solving:* LeetCode, HackerRank
+- *Problem Solving:* Codeforces,LeetCode, HackerRank
 
 ### 📚 Education:
-- *Galgotias University* - Pursuing [Your Degree]
+- *Galgotias University* - Pursuing [B.Tech computer science and Engineering]
 
 ### 💡 What I’m currently working on:
-- Enhancing my knowledge in *Full Stack Development*.
+- Enhancing my knowledge in *Data Structures and Algorithms (DSA)*.
 - Solving *competitive coding problems* on various platforms.
 - Building projects that combine *C++, **Java, and **SQL* to tackle real-world problems.
 
 ### 📫 How to reach me:
-- *Email:* [your.email@example.com]
-- *LinkedIn:* [LinkedIn Profile URL]
+- *Email:* [codemaestro509@gmail.com]
+- *LinkedIn:* [linkedin.com/in/anuj-mishra-255628295]
 
 ### 🌱 Always Learning:
 I’m always looking to learn new technologies, improve my coding skills, and contribute to open-source projects.
