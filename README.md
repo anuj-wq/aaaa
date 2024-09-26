@@ -7,7 +7,7 @@ I'm Anuj Mishra, currently pursuing my studies at *Galgotias University. I'm pas
 - *Programming Languages:* C++, Java
 - *Data Structures & Algorithms*
 - *Database Management:* SQL
-- *Version Control:* Git, GitHub
+- *Version Control:* Git, GitHub.
 - *Problem Solving:* LeetCode, HackerRank
 
 ### 📚 Education:
